@@ -1,0 +1,9 @@
+site_name: Wiki
+nav:
+    - Home: index.md
+    - OData: OData.md
+theme:
+  name: 'material'
+  palette:
+    primary: 'orange'
+    accent: 'indigo'
