@@ -1,9 +1,13 @@
 site_name: Wiki
 nav:
-    - Home: index.md
-    - OData: OData.md
+    - General: index.md
+    - OData:
+      - ODataCallRelated: OData.md
 theme:
   name: 'material'
+  font:
+    text: 'Ubuntu'
+    code: 'Ubuntu Mono'
   palette:
-    primary: 'orange'
+    primary: 'indigo'
     accent: 'indigo'
